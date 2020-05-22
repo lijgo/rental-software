@@ -27,7 +27,8 @@
 			</li>
 		</ul>
 
-		<input type="text" name="year" value="1998"> <input type="text" name="make" value="Honda"> <input type="text" name="model" value="Prelude"> <input type="text" name="year" value="1998">
+		<h3>Year Make   Model  Plate</h3>
+		<input type="text" name="year" value="1998" size="2"> <input type="text" name="make" value="Honda" size="8"> <input type="text" name="model" value="Prelude" size="10"> <input type="text" name="plate" value="BTW794" size="5">
 	</form>
 </body>
 </html>
